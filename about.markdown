@@ -4,15 +4,34 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# 👋 Hi, I'm Sachidanand
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Welcome to my technical blog!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm a passionate backend developer with a love for **Java**, **system design**, and **contributing to open-source**. I'm currently diving deep into production-ready architectures, Spring Boot microservices, and tools like Docker, Kafka, and gRPC. My long-term goal is to crack into top engineering teams like **VMware**, **Red Hat**, or **Datastax** — and I’m documenting that journey here!
 
+### 🧠 What you'll find on this blog:
 
-[jekyll-organization]: https://github.com/jekyll
+- Deep dives into **Java and multithreading**
+- Real-world examples of **system design**
+- Open-source learnings from projects like **JHipster Lite**
+- Clean, beginner-friendly explanations for complex backend topics
+- Weekly blog posts.
+
+### 🛠 Technologies I work with:
+
+- Java 21, Spring Boot, REST APIs
+- Docker, Kafka, gRPC
+- GitHub Actions, SonarQube, CI/CD
+- SQL & PostgreSQL
+- JHipster Lite (Contributor)
+
+### 🚀 Let's Connect!
+
+- 💻 [GitHub](https://github.com/sachi76)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sachidanand-h-pramod-834935183/)
+- 📬 Feel free to reach out via [sachinph05@gmail.com]
+
+Thanks for stopping by ✨
+
+\_– Sachi 💛
