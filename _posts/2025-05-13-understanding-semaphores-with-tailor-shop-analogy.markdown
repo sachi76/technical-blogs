@@ -9,12 +9,12 @@ When you're learning about concurrency in Java, one of the most powerful yet mis
 
 ---
 
-## 🧵 The Real-Life Scenario: A Tailor Shop
+## The Real-Life Scenario: A Tailor Shop
 
 Imagine a **tailor shop** with:
 
-- 🪡 **6 sewing machines**
-- 🧑‍🔧 Multiple **tailors** trying to use them
+- **6 sewing machines**
+-  Multiple **tailors** trying to use them
 - Only **one tailor per machine**
 - Tailors must **wait** if no machine is available
 - Once done, the tailor **releases** the machine for others
@@ -23,7 +23,7 @@ This problem maps beautifully to the **Producer-Consumer Problem** in concurrenc
 
 ---
 
-## 🔄 Mapping Real World to Java
+## Mapping Real World to Java
 
 | Real-World Concept     | Java Concurrency Concept       |
 | ---------------------- | ------------------------------ |
@@ -36,7 +36,7 @@ This problem maps beautifully to the **Producer-Consumer Problem** in concurrenc
 
 ---
 
-## 💡 Java Implementation: Tailor Shop Simulation
+## Java Implementation: Tailor Shop Simulation
 
 ```java
 import java.util.concurrent.Semaphore;
@@ -77,21 +77,21 @@ public class TailorShop {
 
 ---
 
-## 🧠 What This Teaches Us
+## What This Teaches Us
 
 This analogy helps illustrate how semaphores provide:
 
-✅ Resource control — limit access to a shared resource
+- Resource control — limit access to a shared resource
 
-✅ Thread coordination — only N threads allowed at once
+- Thread coordination — only N threads allowed at once
 
-✅ Fairness and blocking — acquire() blocks if none are available
+- Fairness and blocking — acquire() blocks if none are available
 
-✅ Release logic — release() signals that a resource is now free
+- Release logic — release() signals that a resource is now free
 
 ---
 
-## 🔍 Real-World Uses of Semaphores
+## Real-World Uses of Semaphores
 
 - Controlling database connection pools
 
@@ -103,7 +103,7 @@ This analogy helps illustrate how semaphores provide:
 
 ---
 
-## 🧵 Bonus: Semaphores in the Producer-Consumer Problem
+## Bonus: Semaphores in the Producer-Consumer Problem
 
 ```java
 
@@ -129,7 +129,7 @@ emptySlots.release();
 
 ---
 
-## 🚀 Final Thoughts
+## Final Thoughts
 
 Semaphores aren’t as scary as they sound. If you understand tailors waiting for machines, you already understand how semaphores work!
 
@@ -137,9 +137,9 @@ So the next time you're building a system with shared resources, ask yourself:
 
 “Should I use a semaphore to control this?”
 
-Happy threading! 🧵✨
+Happy threading!
 
 Thanks for reading —
-Sachi 💛
+Sachi <3
 
 ---

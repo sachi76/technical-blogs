@@ -12,7 +12,7 @@ Have you ever stopped to think about what actually happens when you double-click
 
 ---
 
-### 🔁 The Lifecycle of Code
+###  The Lifecycle of Code
 
 Let’s walk through what happens from the moment code is written to when it runs as a process.
 
@@ -22,7 +22,7 @@ Let’s walk through what happens from the moment code is written to when it run
 2. **Installation**  
    After downloading, the user installs the app/program using this executable. Once installed, the app is stored on the **Hard Disk (HDD/SSD)**.
 
-   ✅ At this stage, it is simply an **application** sitting on the disk.
+   At this stage, it is simply an **application** sitting on the disk.
 
 3. **Execution**  
    When the user double-clicks to launch the app, the OS loads the program from disk into **RAM**.
@@ -30,17 +30,17 @@ Let’s walk through what happens from the moment code is written to when it run
 4. **Process Creation**  
    The OS creates a **process**, which is the running instance of that application in memory. This process gets resources like memory space, registers, a stack, and a unique Process ID (PID).
 
-💡 **Only when an app is running in RAM is it called a Process.**
+ **Only when an app is running in RAM is it called a Process.**
 
 ---
 
-### 🧠 Why This Matters
+###  Why This Matters
 
 Before we dive into multithreading, semaphores, or concurrency models — it’s crucial to understand what a **process** is. Threads _live inside_ processes, and they don’t exist on their own. So if you’ve ever jumped into threads without understanding processes, this is your missing foundation.
 
 ---
 
-### ⏭️ What’s Coming Next
+###  What’s Coming Next
 
 In the next article, we’ll move deeper into the world of **threads and multithreading**, starting with:
 
@@ -52,8 +52,5 @@ In the next article, we’ll move deeper into the world of **threads and multith
 
 ---
 
-✍️ **Author**: Sachidanand  
-📅 **Published on**: 3rd May 2025  
-🌐 [Back to Home](/technical-blogs/)
-
-Stay tuned and keep learning!
+Thanks for reading —
+Sachi <3
