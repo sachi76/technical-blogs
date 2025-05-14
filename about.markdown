@@ -26,7 +26,7 @@ I'm a passionate backend developer with a love for **Java**, **system design**, 
 - SQL & PostgreSQL
 - JHipster Lite (Contributor)
 
-### 🚀 Let's Connect!
+### Let's Connect!
 
 - 💻 [GitHub](https://github.com/sachi76)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sachidanand-h-pramod-834935183/)

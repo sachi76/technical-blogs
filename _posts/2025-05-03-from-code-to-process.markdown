@@ -6,8 +6,6 @@ date: 2025-05-03
 tags: [operating-systems, processes, threads, system-design, multithreading]
 ---
 
-## From Code to Process: Understanding What Runs on Your Machine
-
 Have you ever stopped to think about what actually happens when you double-click on an app? Most developers jump directly into code without really understanding how that code transforms into something the machine runs — something called a **process**. Let’s break it down simply and clearly.
 
 ---
