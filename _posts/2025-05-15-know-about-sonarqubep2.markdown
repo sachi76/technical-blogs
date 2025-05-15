@@ -11,7 +11,7 @@ tags: [code-quality, java, tools, clean-code, sonar]
 
 ---
 
-In [Part 1](./know-about-sonarqube.html), we explored what SonarQube is and how it uses **static code analysis** to detect bugs, code smells, vulnerabilities, and more — even before you compile your code.
+In [Part 1](https://sachi76.github.io/technical-blogs/2025/05/14/know-about-sonarqube.html), we explored what SonarQube is and how it uses **static code analysis** to detect bugs, code smells, vulnerabilities, and more — even before you compile your code.
 
 But here’s the bigger question:
 
