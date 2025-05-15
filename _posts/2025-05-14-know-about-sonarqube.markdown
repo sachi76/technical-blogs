@@ -66,7 +66,7 @@ Even as a solo developer or small team, SonarQube helps you **level up your codi
 
 ---
 
-_Coming in Part 2:_  
+_Coming in [Part 1](https://sachi76.github.io/technical-blogs/2025/05/15/know-about-sonarqubep2.html):_  
 Why SonarQube _actually_ matters — especially when your project grows, and how it fits into a real-world developer’s workflow.
 
 ---
